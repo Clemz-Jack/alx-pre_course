@@ -1,2 +1,2 @@
 # alx-pre_course
-this is my first readme.nd
+up_to_date 
